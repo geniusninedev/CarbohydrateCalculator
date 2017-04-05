@@ -1,4 +1,4 @@
-package com.nineinfosys.android.carbohydratecalculator.Login;
+package com.nineinfosys.android.carbohydratecalculator.Contacts;
 
 /**
  * Created by Dev on 13-03-2017.
