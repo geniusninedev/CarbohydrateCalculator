@@ -21,7 +21,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.nineinfosys.android.weightlosscalculators.R;
+import com.nineinfosys.android.carbohydratecalculator.MainActivityDrawer;
+import com.nineinfosys.android.carbohydratecalculator.R;
 
 public class SignUp extends AppCompatActivity {
 

@@ -44,8 +44,8 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.nineinfosys.android.weightlosscalculators.MainActivityDrawer;
-import com.nineinfosys.android.weightlosscalculators.R;
+import com.nineinfosys.android.carbohydratecalculator.MainActivityDrawer;
+import com.nineinfosys.android.carbohydratecalculator.R;
 
 import org.json.JSONObject;
 

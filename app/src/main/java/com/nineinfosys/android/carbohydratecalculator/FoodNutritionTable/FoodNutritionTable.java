@@ -11,8 +11,8 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.TextView;
 
-import com.nineinfosys.android.weightlosscalculators.MainActivityDrawer;
-import com.nineinfosys.android.weightlosscalculators.R;
+import com.nineinfosys.android.carbohydratecalculator.MainActivityDrawer;
+import com.nineinfosys.android.carbohydratecalculator.R;
 
 /**
  * Created by Dev on 01-04-2017.

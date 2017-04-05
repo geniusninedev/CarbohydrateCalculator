@@ -24,8 +24,9 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
-import com.nineinfosys.android.weightlosscalculators.MainActivityDrawer;
-import com.nineinfosys.android.weightlosscalculators.R;
+import com.nineinfosys.android.carbohydratecalculator.MainActivityDrawer;
+import com.nineinfosys.android.carbohydratecalculator.R;
+
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
