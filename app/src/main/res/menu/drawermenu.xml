@@ -4,10 +4,6 @@
 
     <group android:id="@+id/grp13" android:checkableBehavior="single" >
 
-        <item
-            android:id="@+id/Carbohydrate"
-            android:icon="@drawable/btn_carbohydrates"
-            android:title="Carbohydrate" />
         <group android:id="@+id/grp16" android:checkableBehavior="single" >
             <item
                 android:id="@+id/FoodNutritionTable"
